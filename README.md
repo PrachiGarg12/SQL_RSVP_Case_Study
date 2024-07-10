@@ -7,7 +7,7 @@ You must analyze the data set and draw meaningful insights to help them start t
 
 ![image](https://github.com/PrachiGarg12/SQL_RSVP_Case_Study/assets/76693762/f01bc52c-3bb4-49a9-81b6-14aa8894f807)
 
-**Solution Proposed**
+**Proposed Solution**
 
   ▪ The solution analyzes the dataset, exploring tables such as 'movies', 'genre', and 'names' to understand their structure and identify any missing values. 
   
